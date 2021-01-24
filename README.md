@@ -1,0 +1,2 @@
+# SurfaceViewDemo
+使用SurfaceView画图，并用自定义的seekBar 实时改变圆圈的离散效果的例子
